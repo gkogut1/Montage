@@ -3,3 +3,14 @@ server/.DS_Store
 client/.DS_Store
 dependencies/.DS_Store
 dependencies/lib/.DS_Store
+server/bin
+client/bin
+dependencies/bin
+.metadata
+Montage/bin
+Montage/gen
+Montage/.DS_Store
+appcompat_v7/gen
+appcompat_v7/bin
+tests/bin
+
